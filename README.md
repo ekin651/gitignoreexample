@@ -1,1 +1,1 @@
-# gitignoreexample
+# git ignore example
